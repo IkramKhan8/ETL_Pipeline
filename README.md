@@ -1,6 +1,6 @@
 
-# ETL_Piple
-This is my learning project for creating ETL pipe line and orchestrate using airflow
+# ETL_Pipeline
+This is my learning project for creating ETL pipeline and orchestrating using airflow
 =======
 Welcome to your new dbt project!
 
